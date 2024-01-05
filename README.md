@@ -2,7 +2,6 @@
 Conduzi uma análise de dados detalhada sobre startups unicórnios, destacando seu valor econômico e distribuição por país. Empreguei as bibliotecas pandas para manipulação, seaborn para visualizações e numpy para eficiência na análise. O Jupyter Notebook foi a plataforma utilizada, proporcionando uma experiência interativa e transparente na apresentação dos insights. A ordenação decrescente revela os líderes em valor, oferecendo uma visão valiosa para investidores e entusiastas.
 
 # Sobre o conjunto de dados
-"# **Sobre o conjunto de dados** <p>
 "Unicórnio" é um termo usado na indústria de capital de risco para descrever uma startup de capital fechado com valor superior a US$ 1 bilhão. 
 O termo foi popularizado pela primeira vez pela capitalista de risco Aileen Lee, fundadora da Cowboy Ventures, um fundo de capital de risco com sede em Palo Alto, Califórnia.
 
