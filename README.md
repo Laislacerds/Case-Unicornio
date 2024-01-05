@@ -13,7 +13,8 @@ Instale o Jupyter: pip install jupyter
 Abra o terminal e vá até o diretório do seu projeto.
 Digite jupyter notebook e pressione Enter.
 Navegue até o notebook e abra-o para explorar a análise.
-Link para o Download da base de dados
+
+Download da base de dados
 
 ![image](https://github.com/Laislacerds/CaseUnic-rnio/assets/112042523/0f08eeeb-e467-4ce8-919c-f10712b7f9aa)
 
